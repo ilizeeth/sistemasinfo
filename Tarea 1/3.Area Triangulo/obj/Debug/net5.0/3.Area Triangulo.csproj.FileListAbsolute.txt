@@ -1,0 +1,16 @@
+C:\Sistemas\3.Area Triangulo\obj\Debug\net5.0\3.Area Triangulo.csprojAssemblyReference.cache
+C:\Sistemas\3.Area Triangulo\obj\Debug\net5.0\3.Area Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\3.Area Triangulo\obj\Debug\net5.0\3.Area Triangulo.AssemblyInfoInputs.cache
+C:\Sistemas\3.Area Triangulo\obj\Debug\net5.0\3.Area Triangulo.AssemblyInfo.cs
+C:\Sistemas\3.Area Triangulo\obj\Debug\net5.0\3.Area Triangulo.csproj.CoreCompileInputs.cache
+C:\Sistemas\3.Area Triangulo\bin\Debug\net5.0\3.Area Triangulo.exe
+C:\Sistemas\3.Area Triangulo\bin\Debug\net5.0\3.Area Triangulo.deps.json
+C:\Sistemas\3.Area Triangulo\bin\Debug\net5.0\3.Area Triangulo.runtimeconfig.json
+C:\Sistemas\3.Area Triangulo\bin\Debug\net5.0\3.Area Triangulo.runtimeconfig.dev.json
+C:\Sistemas\3.Area Triangulo\bin\Debug\net5.0\3.Area Triangulo.dll
+C:\Sistemas\3.Area Triangulo\bin\Debug\net5.0\ref\3.Area Triangulo.dll
+C:\Sistemas\3.Area Triangulo\bin\Debug\net5.0\3.Area Triangulo.pdb
+C:\Sistemas\3.Area Triangulo\obj\Debug\net5.0\3.Area Triangulo.dll
+C:\Sistemas\3.Area Triangulo\obj\Debug\net5.0\ref\3.Area Triangulo.dll
+C:\Sistemas\3.Area Triangulo\obj\Debug\net5.0\3.Area Triangulo.pdb
+C:\Sistemas\3.Area Triangulo\obj\Debug\net5.0\3.Area Triangulo.genruntimeconfig.cache

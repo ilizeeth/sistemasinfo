@@ -1,0 +1,16 @@
+C:\Sistemas\4.Paga Trabajador\bin\Debug\net5.0\4.Paga Trabajador.exe
+C:\Sistemas\4.Paga Trabajador\bin\Debug\net5.0\4.Paga Trabajador.deps.json
+C:\Sistemas\4.Paga Trabajador\bin\Debug\net5.0\4.Paga Trabajador.runtimeconfig.json
+C:\Sistemas\4.Paga Trabajador\bin\Debug\net5.0\4.Paga Trabajador.runtimeconfig.dev.json
+C:\Sistemas\4.Paga Trabajador\bin\Debug\net5.0\4.Paga Trabajador.dll
+C:\Sistemas\4.Paga Trabajador\bin\Debug\net5.0\ref\4.Paga Trabajador.dll
+C:\Sistemas\4.Paga Trabajador\bin\Debug\net5.0\4.Paga Trabajador.pdb
+C:\Sistemas\4.Paga Trabajador\obj\Debug\net5.0\4.Paga Trabajador.csprojAssemblyReference.cache
+C:\Sistemas\4.Paga Trabajador\obj\Debug\net5.0\4.Paga Trabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\4.Paga Trabajador\obj\Debug\net5.0\4.Paga Trabajador.AssemblyInfoInputs.cache
+C:\Sistemas\4.Paga Trabajador\obj\Debug\net5.0\4.Paga Trabajador.AssemblyInfo.cs
+C:\Sistemas\4.Paga Trabajador\obj\Debug\net5.0\4.Paga Trabajador.csproj.CoreCompileInputs.cache
+C:\Sistemas\4.Paga Trabajador\obj\Debug\net5.0\4.Paga Trabajador.dll
+C:\Sistemas\4.Paga Trabajador\obj\Debug\net5.0\ref\4.Paga Trabajador.dll
+C:\Sistemas\4.Paga Trabajador\obj\Debug\net5.0\4.Paga Trabajador.pdb
+C:\Sistemas\4.Paga Trabajador\obj\Debug\net5.0\4.Paga Trabajador.genruntimeconfig.cache

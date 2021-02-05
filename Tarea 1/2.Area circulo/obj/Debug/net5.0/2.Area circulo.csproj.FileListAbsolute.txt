@@ -1,0 +1,16 @@
+C:\Sistemas\2.Area circulo\bin\Debug\net5.0\2.Area circulo.exe
+C:\Sistemas\2.Area circulo\bin\Debug\net5.0\2.Area circulo.deps.json
+C:\Sistemas\2.Area circulo\bin\Debug\net5.0\2.Area circulo.runtimeconfig.json
+C:\Sistemas\2.Area circulo\bin\Debug\net5.0\2.Area circulo.runtimeconfig.dev.json
+C:\Sistemas\2.Area circulo\bin\Debug\net5.0\2.Area circulo.dll
+C:\Sistemas\2.Area circulo\bin\Debug\net5.0\ref\2.Area circulo.dll
+C:\Sistemas\2.Area circulo\bin\Debug\net5.0\2.Area circulo.pdb
+C:\Sistemas\2.Area circulo\obj\Debug\net5.0\2.Area circulo.csprojAssemblyReference.cache
+C:\Sistemas\2.Area circulo\obj\Debug\net5.0\2.Area circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\2.Area circulo\obj\Debug\net5.0\2.Area circulo.AssemblyInfoInputs.cache
+C:\Sistemas\2.Area circulo\obj\Debug\net5.0\2.Area circulo.AssemblyInfo.cs
+C:\Sistemas\2.Area circulo\obj\Debug\net5.0\2.Area circulo.csproj.CoreCompileInputs.cache
+C:\Sistemas\2.Area circulo\obj\Debug\net5.0\2.Area circulo.dll
+C:\Sistemas\2.Area circulo\obj\Debug\net5.0\ref\2.Area circulo.dll
+C:\Sistemas\2.Area circulo\obj\Debug\net5.0\2.Area circulo.pdb
+C:\Sistemas\2.Area circulo\obj\Debug\net5.0\2.Area circulo.genruntimeconfig.cache

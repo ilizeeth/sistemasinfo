@@ -1,0 +1,16 @@
+C:\Sistemas\1.Hola Mundo\bin\Debug\net5.0\1.Hola Mundo.exe
+C:\Sistemas\1.Hola Mundo\bin\Debug\net5.0\1.Hola Mundo.deps.json
+C:\Sistemas\1.Hola Mundo\bin\Debug\net5.0\1.Hola Mundo.runtimeconfig.json
+C:\Sistemas\1.Hola Mundo\bin\Debug\net5.0\1.Hola Mundo.runtimeconfig.dev.json
+C:\Sistemas\1.Hola Mundo\bin\Debug\net5.0\1.Hola Mundo.dll
+C:\Sistemas\1.Hola Mundo\bin\Debug\net5.0\ref\1.Hola Mundo.dll
+C:\Sistemas\1.Hola Mundo\bin\Debug\net5.0\1.Hola Mundo.pdb
+C:\Sistemas\1.Hola Mundo\obj\Debug\net5.0\1.Hola Mundo.csprojAssemblyReference.cache
+C:\Sistemas\1.Hola Mundo\obj\Debug\net5.0\1.Hola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\1.Hola Mundo\obj\Debug\net5.0\1.Hola Mundo.AssemblyInfoInputs.cache
+C:\Sistemas\1.Hola Mundo\obj\Debug\net5.0\1.Hola Mundo.AssemblyInfo.cs
+C:\Sistemas\1.Hola Mundo\obj\Debug\net5.0\1.Hola Mundo.csproj.CoreCompileInputs.cache
+C:\Sistemas\1.Hola Mundo\obj\Debug\net5.0\1.Hola Mundo.dll
+C:\Sistemas\1.Hola Mundo\obj\Debug\net5.0\ref\1.Hola Mundo.dll
+C:\Sistemas\1.Hola Mundo\obj\Debug\net5.0\1.Hola Mundo.pdb
+C:\Sistemas\1.Hola Mundo\obj\Debug\net5.0\1.Hola Mundo.genruntimeconfig.cache
