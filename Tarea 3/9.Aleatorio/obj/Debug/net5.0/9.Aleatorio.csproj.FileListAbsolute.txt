@@ -1,0 +1,16 @@
+C:\Sistemas\Tarea\9.Aleatorio\bin\Debug\net5.0\9.Aleatorio.exe
+C:\Sistemas\Tarea\9.Aleatorio\bin\Debug\net5.0\9.Aleatorio.deps.json
+C:\Sistemas\Tarea\9.Aleatorio\bin\Debug\net5.0\9.Aleatorio.runtimeconfig.json
+C:\Sistemas\Tarea\9.Aleatorio\bin\Debug\net5.0\9.Aleatorio.runtimeconfig.dev.json
+C:\Sistemas\Tarea\9.Aleatorio\bin\Debug\net5.0\9.Aleatorio.dll
+C:\Sistemas\Tarea\9.Aleatorio\bin\Debug\net5.0\ref\9.Aleatorio.dll
+C:\Sistemas\Tarea\9.Aleatorio\bin\Debug\net5.0\9.Aleatorio.pdb
+C:\Sistemas\Tarea\9.Aleatorio\obj\Debug\net5.0\9.Aleatorio.csprojAssemblyReference.cache
+C:\Sistemas\Tarea\9.Aleatorio\obj\Debug\net5.0\9.Aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Tarea\9.Aleatorio\obj\Debug\net5.0\9.Aleatorio.AssemblyInfoInputs.cache
+C:\Sistemas\Tarea\9.Aleatorio\obj\Debug\net5.0\9.Aleatorio.AssemblyInfo.cs
+C:\Sistemas\Tarea\9.Aleatorio\obj\Debug\net5.0\9.Aleatorio.csproj.CoreCompileInputs.cache
+C:\Sistemas\Tarea\9.Aleatorio\obj\Debug\net5.0\9.Aleatorio.dll
+C:\Sistemas\Tarea\9.Aleatorio\obj\Debug\net5.0\ref\9.Aleatorio.dll
+C:\Sistemas\Tarea\9.Aleatorio\obj\Debug\net5.0\9.Aleatorio.pdb
+C:\Sistemas\Tarea\9.Aleatorio\obj\Debug\net5.0\9.Aleatorio.genruntimeconfig.cache

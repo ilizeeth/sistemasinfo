@@ -1,0 +1,16 @@
+C:\Sistemas\Tarea 3\13.VectorMult\bin\Debug\net5.0\13.VectorMult.exe
+C:\Sistemas\Tarea 3\13.VectorMult\bin\Debug\net5.0\13.VectorMult.deps.json
+C:\Sistemas\Tarea 3\13.VectorMult\bin\Debug\net5.0\13.VectorMult.runtimeconfig.json
+C:\Sistemas\Tarea 3\13.VectorMult\bin\Debug\net5.0\13.VectorMult.runtimeconfig.dev.json
+C:\Sistemas\Tarea 3\13.VectorMult\bin\Debug\net5.0\13.VectorMult.dll
+C:\Sistemas\Tarea 3\13.VectorMult\bin\Debug\net5.0\ref\13.VectorMult.dll
+C:\Sistemas\Tarea 3\13.VectorMult\bin\Debug\net5.0\13.VectorMult.pdb
+C:\Sistemas\Tarea 3\13.VectorMult\obj\Debug\net5.0\13.VectorMult.csprojAssemblyReference.cache
+C:\Sistemas\Tarea 3\13.VectorMult\obj\Debug\net5.0\13.VectorMult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Tarea 3\13.VectorMult\obj\Debug\net5.0\13.VectorMult.AssemblyInfoInputs.cache
+C:\Sistemas\Tarea 3\13.VectorMult\obj\Debug\net5.0\13.VectorMult.AssemblyInfo.cs
+C:\Sistemas\Tarea 3\13.VectorMult\obj\Debug\net5.0\13.VectorMult.csproj.CoreCompileInputs.cache
+C:\Sistemas\Tarea 3\13.VectorMult\obj\Debug\net5.0\13.VectorMult.dll
+C:\Sistemas\Tarea 3\13.VectorMult\obj\Debug\net5.0\ref\13.VectorMult.dll
+C:\Sistemas\Tarea 3\13.VectorMult\obj\Debug\net5.0\13.VectorMult.pdb
+C:\Sistemas\Tarea 3\13.VectorMult\obj\Debug\net5.0\13.VectorMult.genruntimeconfig.cache

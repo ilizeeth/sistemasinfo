@@ -1,0 +1,16 @@
+C:\Sistemas\Tarea 3\14.Estadisticas\obj\Debug\net5.0\14.Estadisticas.csprojAssemblyReference.cache
+C:\Sistemas\Tarea 3\14.Estadisticas\obj\Debug\net5.0\14.Estadisticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Tarea 3\14.Estadisticas\obj\Debug\net5.0\14.Estadisticas.AssemblyInfoInputs.cache
+C:\Sistemas\Tarea 3\14.Estadisticas\obj\Debug\net5.0\14.Estadisticas.AssemblyInfo.cs
+C:\Sistemas\Tarea 3\14.Estadisticas\obj\Debug\net5.0\14.Estadisticas.csproj.CoreCompileInputs.cache
+C:\Sistemas\Tarea 3\14.Estadisticas\bin\Debug\net5.0\14.Estadisticas.exe
+C:\Sistemas\Tarea 3\14.Estadisticas\bin\Debug\net5.0\14.Estadisticas.deps.json
+C:\Sistemas\Tarea 3\14.Estadisticas\bin\Debug\net5.0\14.Estadisticas.runtimeconfig.json
+C:\Sistemas\Tarea 3\14.Estadisticas\bin\Debug\net5.0\14.Estadisticas.runtimeconfig.dev.json
+C:\Sistemas\Tarea 3\14.Estadisticas\bin\Debug\net5.0\14.Estadisticas.dll
+C:\Sistemas\Tarea 3\14.Estadisticas\bin\Debug\net5.0\ref\14.Estadisticas.dll
+C:\Sistemas\Tarea 3\14.Estadisticas\bin\Debug\net5.0\14.Estadisticas.pdb
+C:\Sistemas\Tarea 3\14.Estadisticas\obj\Debug\net5.0\14.Estadisticas.dll
+C:\Sistemas\Tarea 3\14.Estadisticas\obj\Debug\net5.0\ref\14.Estadisticas.dll
+C:\Sistemas\Tarea 3\14.Estadisticas\obj\Debug\net5.0\14.Estadisticas.pdb
+C:\Sistemas\Tarea 3\14.Estadisticas\obj\Debug\net5.0\14.Estadisticas.genruntimeconfig.cache

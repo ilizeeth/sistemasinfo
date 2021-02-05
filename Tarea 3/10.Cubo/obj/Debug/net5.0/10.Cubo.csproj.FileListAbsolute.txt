@@ -1,0 +1,16 @@
+C:\Sistemas\Tarea\10.Cubo\bin\Debug\net5.0\10.Cubo.exe
+C:\Sistemas\Tarea\10.Cubo\bin\Debug\net5.0\10.Cubo.deps.json
+C:\Sistemas\Tarea\10.Cubo\bin\Debug\net5.0\10.Cubo.runtimeconfig.json
+C:\Sistemas\Tarea\10.Cubo\bin\Debug\net5.0\10.Cubo.runtimeconfig.dev.json
+C:\Sistemas\Tarea\10.Cubo\bin\Debug\net5.0\10.Cubo.dll
+C:\Sistemas\Tarea\10.Cubo\bin\Debug\net5.0\ref\10.Cubo.dll
+C:\Sistemas\Tarea\10.Cubo\bin\Debug\net5.0\10.Cubo.pdb
+C:\Sistemas\Tarea\10.Cubo\obj\Debug\net5.0\10.Cubo.csprojAssemblyReference.cache
+C:\Sistemas\Tarea\10.Cubo\obj\Debug\net5.0\10.Cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Tarea\10.Cubo\obj\Debug\net5.0\10.Cubo.AssemblyInfoInputs.cache
+C:\Sistemas\Tarea\10.Cubo\obj\Debug\net5.0\10.Cubo.AssemblyInfo.cs
+C:\Sistemas\Tarea\10.Cubo\obj\Debug\net5.0\10.Cubo.csproj.CoreCompileInputs.cache
+C:\Sistemas\Tarea\10.Cubo\obj\Debug\net5.0\10.Cubo.dll
+C:\Sistemas\Tarea\10.Cubo\obj\Debug\net5.0\ref\10.Cubo.dll
+C:\Sistemas\Tarea\10.Cubo\obj\Debug\net5.0\10.Cubo.pdb
+C:\Sistemas\Tarea\10.Cubo\obj\Debug\net5.0\10.Cubo.genruntimeconfig.cache

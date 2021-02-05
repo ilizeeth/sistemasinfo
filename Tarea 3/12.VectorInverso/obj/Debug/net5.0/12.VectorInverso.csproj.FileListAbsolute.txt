@@ -1,0 +1,16 @@
+C:\Sistemas\Tarea 3\12.VectorInverso\obj\Debug\net5.0\12.VectorInverso.csprojAssemblyReference.cache
+C:\Sistemas\Tarea 3\12.VectorInverso\obj\Debug\net5.0\12.VectorInverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Tarea 3\12.VectorInverso\obj\Debug\net5.0\12.VectorInverso.AssemblyInfoInputs.cache
+C:\Sistemas\Tarea 3\12.VectorInverso\obj\Debug\net5.0\12.VectorInverso.AssemblyInfo.cs
+C:\Sistemas\Tarea 3\12.VectorInverso\obj\Debug\net5.0\12.VectorInverso.csproj.CoreCompileInputs.cache
+C:\Sistemas\Tarea 3\12.VectorInverso\bin\Debug\net5.0\12.VectorInverso.exe
+C:\Sistemas\Tarea 3\12.VectorInverso\bin\Debug\net5.0\12.VectorInverso.deps.json
+C:\Sistemas\Tarea 3\12.VectorInverso\bin\Debug\net5.0\12.VectorInverso.runtimeconfig.json
+C:\Sistemas\Tarea 3\12.VectorInverso\bin\Debug\net5.0\12.VectorInverso.runtimeconfig.dev.json
+C:\Sistemas\Tarea 3\12.VectorInverso\bin\Debug\net5.0\12.VectorInverso.dll
+C:\Sistemas\Tarea 3\12.VectorInverso\bin\Debug\net5.0\ref\12.VectorInverso.dll
+C:\Sistemas\Tarea 3\12.VectorInverso\bin\Debug\net5.0\12.VectorInverso.pdb
+C:\Sistemas\Tarea 3\12.VectorInverso\obj\Debug\net5.0\12.VectorInverso.dll
+C:\Sistemas\Tarea 3\12.VectorInverso\obj\Debug\net5.0\ref\12.VectorInverso.dll
+C:\Sistemas\Tarea 3\12.VectorInverso\obj\Debug\net5.0\12.VectorInverso.pdb
+C:\Sistemas\Tarea 3\12.VectorInverso\obj\Debug\net5.0\12.VectorInverso.genruntimeconfig.cache

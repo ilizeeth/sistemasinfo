@@ -1,0 +1,16 @@
+C:\Sistemas\Tarea\8.VecProm\obj\Debug\net5.0\8.VecProm.csprojAssemblyReference.cache
+C:\Sistemas\Tarea\8.VecProm\obj\Debug\net5.0\8.VecProm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Tarea\8.VecProm\obj\Debug\net5.0\8.VecProm.AssemblyInfoInputs.cache
+C:\Sistemas\Tarea\8.VecProm\obj\Debug\net5.0\8.VecProm.AssemblyInfo.cs
+C:\Sistemas\Tarea\8.VecProm\obj\Debug\net5.0\8.VecProm.csproj.CoreCompileInputs.cache
+C:\Sistemas\Tarea\8.VecProm\bin\Debug\net5.0\8.VecProm.exe
+C:\Sistemas\Tarea\8.VecProm\bin\Debug\net5.0\8.VecProm.deps.json
+C:\Sistemas\Tarea\8.VecProm\bin\Debug\net5.0\8.VecProm.runtimeconfig.json
+C:\Sistemas\Tarea\8.VecProm\bin\Debug\net5.0\8.VecProm.runtimeconfig.dev.json
+C:\Sistemas\Tarea\8.VecProm\bin\Debug\net5.0\8.VecProm.dll
+C:\Sistemas\Tarea\8.VecProm\bin\Debug\net5.0\ref\8.VecProm.dll
+C:\Sistemas\Tarea\8.VecProm\bin\Debug\net5.0\8.VecProm.pdb
+C:\Sistemas\Tarea\8.VecProm\obj\Debug\net5.0\8.VecProm.dll
+C:\Sistemas\Tarea\8.VecProm\obj\Debug\net5.0\ref\8.VecProm.dll
+C:\Sistemas\Tarea\8.VecProm\obj\Debug\net5.0\8.VecProm.pdb
+C:\Sistemas\Tarea\8.VecProm\obj\Debug\net5.0\8.VecProm.genruntimeconfig.cache

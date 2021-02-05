@@ -1,0 +1,16 @@
+C:\Sistemas\Tarea 3\11.VectorSumas\bin\Debug\net5.0\11.VectorSumas.exe
+C:\Sistemas\Tarea 3\11.VectorSumas\bin\Debug\net5.0\11.VectorSumas.deps.json
+C:\Sistemas\Tarea 3\11.VectorSumas\bin\Debug\net5.0\11.VectorSumas.runtimeconfig.json
+C:\Sistemas\Tarea 3\11.VectorSumas\bin\Debug\net5.0\11.VectorSumas.runtimeconfig.dev.json
+C:\Sistemas\Tarea 3\11.VectorSumas\bin\Debug\net5.0\11.VectorSumas.dll
+C:\Sistemas\Tarea 3\11.VectorSumas\bin\Debug\net5.0\ref\11.VectorSumas.dll
+C:\Sistemas\Tarea 3\11.VectorSumas\bin\Debug\net5.0\11.VectorSumas.pdb
+C:\Sistemas\Tarea 3\11.VectorSumas\obj\Debug\net5.0\11.VectorSumas.csprojAssemblyReference.cache
+C:\Sistemas\Tarea 3\11.VectorSumas\obj\Debug\net5.0\11.VectorSumas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Tarea 3\11.VectorSumas\obj\Debug\net5.0\11.VectorSumas.AssemblyInfoInputs.cache
+C:\Sistemas\Tarea 3\11.VectorSumas\obj\Debug\net5.0\11.VectorSumas.AssemblyInfo.cs
+C:\Sistemas\Tarea 3\11.VectorSumas\obj\Debug\net5.0\11.VectorSumas.csproj.CoreCompileInputs.cache
+C:\Sistemas\Tarea 3\11.VectorSumas\obj\Debug\net5.0\11.VectorSumas.dll
+C:\Sistemas\Tarea 3\11.VectorSumas\obj\Debug\net5.0\ref\11.VectorSumas.dll
+C:\Sistemas\Tarea 3\11.VectorSumas\obj\Debug\net5.0\11.VectorSumas.pdb
+C:\Sistemas\Tarea 3\11.VectorSumas\obj\Debug\net5.0\11.VectorSumas.genruntimeconfig.cache
