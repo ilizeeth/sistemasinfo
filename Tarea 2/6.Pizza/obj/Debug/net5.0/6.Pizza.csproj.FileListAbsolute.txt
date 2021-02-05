@@ -1,0 +1,16 @@
+C:\Sistemas\Tarea 2\6.Pizza\obj\Debug\net5.0\6.Pizza.csprojAssemblyReference.cache
+C:\Sistemas\Tarea 2\6.Pizza\obj\Debug\net5.0\6.Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\Tarea 2\6.Pizza\obj\Debug\net5.0\6.Pizza.AssemblyInfoInputs.cache
+C:\Sistemas\Tarea 2\6.Pizza\obj\Debug\net5.0\6.Pizza.AssemblyInfo.cs
+C:\Sistemas\Tarea 2\6.Pizza\obj\Debug\net5.0\6.Pizza.csproj.CoreCompileInputs.cache
+C:\Sistemas\Tarea 2\6.Pizza\bin\Debug\net5.0\6.Pizza.exe
+C:\Sistemas\Tarea 2\6.Pizza\bin\Debug\net5.0\6.Pizza.deps.json
+C:\Sistemas\Tarea 2\6.Pizza\bin\Debug\net5.0\6.Pizza.runtimeconfig.json
+C:\Sistemas\Tarea 2\6.Pizza\bin\Debug\net5.0\6.Pizza.runtimeconfig.dev.json
+C:\Sistemas\Tarea 2\6.Pizza\bin\Debug\net5.0\6.Pizza.dll
+C:\Sistemas\Tarea 2\6.Pizza\bin\Debug\net5.0\ref\6.Pizza.dll
+C:\Sistemas\Tarea 2\6.Pizza\bin\Debug\net5.0\6.Pizza.pdb
+C:\Sistemas\Tarea 2\6.Pizza\obj\Debug\net5.0\6.Pizza.dll
+C:\Sistemas\Tarea 2\6.Pizza\obj\Debug\net5.0\ref\6.Pizza.dll
+C:\Sistemas\Tarea 2\6.Pizza\obj\Debug\net5.0\6.Pizza.pdb
+C:\Sistemas\Tarea 2\6.Pizza\obj\Debug\net5.0\6.Pizza.genruntimeconfig.cache
