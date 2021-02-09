@@ -1,0 +1,16 @@
+C:\Sistemasinfo\Tarea 4\15.Objetos\bin\Debug\net5.0\15.Objetos.exe
+C:\Sistemasinfo\Tarea 4\15.Objetos\bin\Debug\net5.0\15.Objetos.deps.json
+C:\Sistemasinfo\Tarea 4\15.Objetos\bin\Debug\net5.0\15.Objetos.runtimeconfig.json
+C:\Sistemasinfo\Tarea 4\15.Objetos\bin\Debug\net5.0\15.Objetos.runtimeconfig.dev.json
+C:\Sistemasinfo\Tarea 4\15.Objetos\bin\Debug\net5.0\15.Objetos.dll
+C:\Sistemasinfo\Tarea 4\15.Objetos\bin\Debug\net5.0\ref\15.Objetos.dll
+C:\Sistemasinfo\Tarea 4\15.Objetos\bin\Debug\net5.0\15.Objetos.pdb
+C:\Sistemasinfo\Tarea 4\15.Objetos\obj\Debug\net5.0\15.Objetos.csprojAssemblyReference.cache
+C:\Sistemasinfo\Tarea 4\15.Objetos\obj\Debug\net5.0\15.Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemasinfo\Tarea 4\15.Objetos\obj\Debug\net5.0\15.Objetos.AssemblyInfoInputs.cache
+C:\Sistemasinfo\Tarea 4\15.Objetos\obj\Debug\net5.0\15.Objetos.AssemblyInfo.cs
+C:\Sistemasinfo\Tarea 4\15.Objetos\obj\Debug\net5.0\15.Objetos.csproj.CoreCompileInputs.cache
+C:\Sistemasinfo\Tarea 4\15.Objetos\obj\Debug\net5.0\15.Objetos.dll
+C:\Sistemasinfo\Tarea 4\15.Objetos\obj\Debug\net5.0\ref\15.Objetos.dll
+C:\Sistemasinfo\Tarea 4\15.Objetos\obj\Debug\net5.0\15.Objetos.pdb
+C:\Sistemasinfo\Tarea 4\15.Objetos\obj\Debug\net5.0\15.Objetos.genruntimeconfig.cache
