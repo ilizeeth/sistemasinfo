@@ -1,0 +1,32 @@
+C:\Sistemasinfo\18.RepasoPOO\bin\Debug\net5.0\18.RepasoPOO.exe
+C:\Sistemasinfo\18.RepasoPOO\bin\Debug\net5.0\18.RepasoPOO.deps.json
+C:\Sistemasinfo\18.RepasoPOO\bin\Debug\net5.0\18.RepasoPOO.runtimeconfig.json
+C:\Sistemasinfo\18.RepasoPOO\bin\Debug\net5.0\18.RepasoPOO.runtimeconfig.dev.json
+C:\Sistemasinfo\18.RepasoPOO\bin\Debug\net5.0\18.RepasoPOO.dll
+C:\Sistemasinfo\18.RepasoPOO\bin\Debug\net5.0\ref\18.RepasoPOO.dll
+C:\Sistemasinfo\18.RepasoPOO\bin\Debug\net5.0\18.RepasoPOO.pdb
+C:\Sistemasinfo\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.csprojAssemblyReference.cache
+C:\Sistemasinfo\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemasinfo\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.AssemblyInfoInputs.cache
+C:\Sistemasinfo\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.AssemblyInfo.cs
+C:\Sistemasinfo\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.csproj.CoreCompileInputs.cache
+C:\Sistemasinfo\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.dll
+C:\Sistemasinfo\18.RepasoPOO\obj\Debug\net5.0\ref\18.RepasoPOO.dll
+C:\Sistemasinfo\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.pdb
+C:\Sistemasinfo\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.genruntimeconfig.cache
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\bin\Debug\net5.0\18.RepasoPOO.exe
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\bin\Debug\net5.0\18.RepasoPOO.deps.json
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\bin\Debug\net5.0\18.RepasoPOO.runtimeconfig.json
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\bin\Debug\net5.0\18.RepasoPOO.runtimeconfig.dev.json
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\bin\Debug\net5.0\18.RepasoPOO.dll
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\bin\Debug\net5.0\ref\18.RepasoPOO.dll
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\bin\Debug\net5.0\18.RepasoPOO.pdb
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.csprojAssemblyReference.cache
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.AssemblyInfoInputs.cache
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.AssemblyInfo.cs
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.csproj.CoreCompileInputs.cache
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.dll
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\obj\Debug\net5.0\ref\18.RepasoPOO.dll
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.pdb
+C:\Sistemasinfo\Tarea 7\18.RepasoPOO\obj\Debug\net5.0\18.RepasoPOO.genruntimeconfig.cache
