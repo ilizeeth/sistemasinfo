@@ -1,0 +1,16 @@
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.csprojAssemblyReference.cache
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.AssemblyInfoInputs.cache
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.AssemblyInfo.cs
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.csproj.CoreCompileInputs.cache
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\Control Escolar.exe
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\Control Escolar.deps.json
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\Control Escolar.runtimeconfig.json
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\Control Escolar.runtimeconfig.dev.json
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\Control Escolar.dll
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\ref\Control Escolar.dll
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\Control Escolar.pdb
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.dll
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\ref\Control Escolar.dll
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.pdb
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.genruntimeconfig.cache
