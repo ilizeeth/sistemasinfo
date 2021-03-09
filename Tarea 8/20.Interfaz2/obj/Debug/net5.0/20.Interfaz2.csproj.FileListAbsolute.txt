@@ -1,0 +1,16 @@
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\bin\Debug\net5.0\20.Interfaz2.exe
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\bin\Debug\net5.0\20.Interfaz2.deps.json
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\bin\Debug\net5.0\20.Interfaz2.runtimeconfig.json
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\bin\Debug\net5.0\20.Interfaz2.runtimeconfig.dev.json
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\bin\Debug\net5.0\20.Interfaz2.dll
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\bin\Debug\net5.0\ref\20.Interfaz2.dll
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\bin\Debug\net5.0\20.Interfaz2.pdb
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\obj\Debug\net5.0\20.Interfaz2.csprojAssemblyReference.cache
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\obj\Debug\net5.0\20.Interfaz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\obj\Debug\net5.0\20.Interfaz2.AssemblyInfoInputs.cache
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\obj\Debug\net5.0\20.Interfaz2.AssemblyInfo.cs
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\obj\Debug\net5.0\20.Interfaz2.csproj.CoreCompileInputs.cache
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\obj\Debug\net5.0\20.Interfaz2.dll
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\obj\Debug\net5.0\ref\20.Interfaz2.dll
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\obj\Debug\net5.0\20.Interfaz2.pdb
+C:\Sistemasinfo\Tarea 8\20.Interfaz2\obj\Debug\net5.0\20.Interfaz2.genruntimeconfig.cache
