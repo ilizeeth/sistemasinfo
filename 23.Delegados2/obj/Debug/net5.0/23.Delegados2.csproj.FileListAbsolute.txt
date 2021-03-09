@@ -1,0 +1,16 @@
+C:\Sistemasinfo\Tarea 9\23.Delegados2\bin\Debug\net5.0\23.Delegados2.exe
+C:\Sistemasinfo\Tarea 9\23.Delegados2\bin\Debug\net5.0\23.Delegados2.deps.json
+C:\Sistemasinfo\Tarea 9\23.Delegados2\bin\Debug\net5.0\23.Delegados2.runtimeconfig.json
+C:\Sistemasinfo\Tarea 9\23.Delegados2\bin\Debug\net5.0\23.Delegados2.runtimeconfig.dev.json
+C:\Sistemasinfo\Tarea 9\23.Delegados2\bin\Debug\net5.0\23.Delegados2.dll
+C:\Sistemasinfo\Tarea 9\23.Delegados2\bin\Debug\net5.0\ref\23.Delegados2.dll
+C:\Sistemasinfo\Tarea 9\23.Delegados2\bin\Debug\net5.0\23.Delegados2.pdb
+C:\Sistemasinfo\Tarea 9\23.Delegados2\obj\Debug\net5.0\23.Delegados2.csprojAssemblyReference.cache
+C:\Sistemasinfo\Tarea 9\23.Delegados2\obj\Debug\net5.0\23.Delegados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemasinfo\Tarea 9\23.Delegados2\obj\Debug\net5.0\23.Delegados2.AssemblyInfoInputs.cache
+C:\Sistemasinfo\Tarea 9\23.Delegados2\obj\Debug\net5.0\23.Delegados2.AssemblyInfo.cs
+C:\Sistemasinfo\Tarea 9\23.Delegados2\obj\Debug\net5.0\23.Delegados2.csproj.CoreCompileInputs.cache
+C:\Sistemasinfo\Tarea 9\23.Delegados2\obj\Debug\net5.0\23.Delegados2.dll
+C:\Sistemasinfo\Tarea 9\23.Delegados2\obj\Debug\net5.0\ref\23.Delegados2.dll
+C:\Sistemasinfo\Tarea 9\23.Delegados2\obj\Debug\net5.0\23.Delegados2.pdb
+C:\Sistemasinfo\Tarea 9\23.Delegados2\obj\Debug\net5.0\23.Delegados2.genruntimeconfig.cache
