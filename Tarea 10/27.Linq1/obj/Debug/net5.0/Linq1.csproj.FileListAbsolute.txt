@@ -1,0 +1,16 @@
+C:\Sistemasinfo\Tarea 10\Linq1\obj\Debug\net5.0\Linq1.csprojAssemblyReference.cache
+C:\Sistemasinfo\Tarea 10\Linq1\obj\Debug\net5.0\Linq1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemasinfo\Tarea 10\Linq1\obj\Debug\net5.0\Linq1.AssemblyInfoInputs.cache
+C:\Sistemasinfo\Tarea 10\Linq1\obj\Debug\net5.0\Linq1.AssemblyInfo.cs
+C:\Sistemasinfo\Tarea 10\Linq1\obj\Debug\net5.0\Linq1.csproj.CoreCompileInputs.cache
+C:\Sistemasinfo\Tarea 10\Linq1\bin\Debug\net5.0\Linq1.exe
+C:\Sistemasinfo\Tarea 10\Linq1\bin\Debug\net5.0\Linq1.deps.json
+C:\Sistemasinfo\Tarea 10\Linq1\bin\Debug\net5.0\Linq1.runtimeconfig.json
+C:\Sistemasinfo\Tarea 10\Linq1\bin\Debug\net5.0\Linq1.runtimeconfig.dev.json
+C:\Sistemasinfo\Tarea 10\Linq1\bin\Debug\net5.0\Linq1.dll
+C:\Sistemasinfo\Tarea 10\Linq1\bin\Debug\net5.0\ref\Linq1.dll
+C:\Sistemasinfo\Tarea 10\Linq1\bin\Debug\net5.0\Linq1.pdb
+C:\Sistemasinfo\Tarea 10\Linq1\obj\Debug\net5.0\Linq1.dll
+C:\Sistemasinfo\Tarea 10\Linq1\obj\Debug\net5.0\ref\Linq1.dll
+C:\Sistemasinfo\Tarea 10\Linq1\obj\Debug\net5.0\Linq1.pdb
+C:\Sistemasinfo\Tarea 10\Linq1\obj\Debug\net5.0\Linq1.genruntimeconfig.cache
