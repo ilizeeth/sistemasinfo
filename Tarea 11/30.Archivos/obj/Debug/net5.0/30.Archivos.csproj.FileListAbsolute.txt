@@ -1,0 +1,16 @@
+C:\Sistemasinfo\Tarea 11\30.Archivos\bin\Debug\net5.0\30.Archivos.exe
+C:\Sistemasinfo\Tarea 11\30.Archivos\bin\Debug\net5.0\30.Archivos.deps.json
+C:\Sistemasinfo\Tarea 11\30.Archivos\bin\Debug\net5.0\30.Archivos.runtimeconfig.json
+C:\Sistemasinfo\Tarea 11\30.Archivos\bin\Debug\net5.0\30.Archivos.runtimeconfig.dev.json
+C:\Sistemasinfo\Tarea 11\30.Archivos\bin\Debug\net5.0\30.Archivos.dll
+C:\Sistemasinfo\Tarea 11\30.Archivos\bin\Debug\net5.0\ref\30.Archivos.dll
+C:\Sistemasinfo\Tarea 11\30.Archivos\bin\Debug\net5.0\30.Archivos.pdb
+C:\Sistemasinfo\Tarea 11\30.Archivos\obj\Debug\net5.0\30.Archivos.csprojAssemblyReference.cache
+C:\Sistemasinfo\Tarea 11\30.Archivos\obj\Debug\net5.0\30.Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemasinfo\Tarea 11\30.Archivos\obj\Debug\net5.0\30.Archivos.AssemblyInfoInputs.cache
+C:\Sistemasinfo\Tarea 11\30.Archivos\obj\Debug\net5.0\30.Archivos.AssemblyInfo.cs
+C:\Sistemasinfo\Tarea 11\30.Archivos\obj\Debug\net5.0\30.Archivos.csproj.CoreCompileInputs.cache
+C:\Sistemasinfo\Tarea 11\30.Archivos\obj\Debug\net5.0\30.Archivos.dll
+C:\Sistemasinfo\Tarea 11\30.Archivos\obj\Debug\net5.0\ref\30.Archivos.dll
+C:\Sistemasinfo\Tarea 11\30.Archivos\obj\Debug\net5.0\30.Archivos.pdb
+C:\Sistemasinfo\Tarea 11\30.Archivos\obj\Debug\net5.0\30.Archivos.genruntimeconfig.cache
