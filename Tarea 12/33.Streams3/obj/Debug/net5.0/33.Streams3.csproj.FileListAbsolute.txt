@@ -1,0 +1,16 @@
+C:\Sistemasinfo\Tarea 12\33.Streams3\bin\Debug\net5.0\33.Streams3.exe
+C:\Sistemasinfo\Tarea 12\33.Streams3\bin\Debug\net5.0\33.Streams3.deps.json
+C:\Sistemasinfo\Tarea 12\33.Streams3\bin\Debug\net5.0\33.Streams3.runtimeconfig.json
+C:\Sistemasinfo\Tarea 12\33.Streams3\bin\Debug\net5.0\33.Streams3.runtimeconfig.dev.json
+C:\Sistemasinfo\Tarea 12\33.Streams3\bin\Debug\net5.0\33.Streams3.dll
+C:\Sistemasinfo\Tarea 12\33.Streams3\bin\Debug\net5.0\ref\33.Streams3.dll
+C:\Sistemasinfo\Tarea 12\33.Streams3\bin\Debug\net5.0\33.Streams3.pdb
+C:\Sistemasinfo\Tarea 12\33.Streams3\obj\Debug\net5.0\33.Streams3.csprojAssemblyReference.cache
+C:\Sistemasinfo\Tarea 12\33.Streams3\obj\Debug\net5.0\33.Streams3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemasinfo\Tarea 12\33.Streams3\obj\Debug\net5.0\33.Streams3.AssemblyInfoInputs.cache
+C:\Sistemasinfo\Tarea 12\33.Streams3\obj\Debug\net5.0\33.Streams3.AssemblyInfo.cs
+C:\Sistemasinfo\Tarea 12\33.Streams3\obj\Debug\net5.0\33.Streams3.csproj.CoreCompileInputs.cache
+C:\Sistemasinfo\Tarea 12\33.Streams3\obj\Debug\net5.0\33.Streams3.dll
+C:\Sistemasinfo\Tarea 12\33.Streams3\obj\Debug\net5.0\ref\33.Streams3.dll
+C:\Sistemasinfo\Tarea 12\33.Streams3\obj\Debug\net5.0\33.Streams3.pdb
+C:\Sistemasinfo\Tarea 12\33.Streams3\obj\Debug\net5.0\33.Streams3.genruntimeconfig.cache
