@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<Escuela xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nombre>Universidad Patito SA de CV</Nombre>
+  <Encargado>Ing. Juan Perez</Encargado>
+  <Domicilio>Av. De la Juventud 348</Domicilio>
+  <Profes>
+    <Profesor>
+      <Nombre>Jose Diaz</Nombre>
+      <Fechaing>2018-01-01T00:00:00</Fechaing>
+      <Grupo>1A</Grupo>
+      <Materia>Fisica</Materia>
+      <Salario>1200</Salario>
+      <Alumnos>
+        <Alumno>
+          <Nombre>Fatima Soto</Nombre>
+          <Edad>23</Edad>
+          <Fechaing>2019-01-01T00:00:00</Fechaing>
+          <Becado>1</Becado>
+          <Calificaciones>
+            <int>7</int>
+            <int>7</int>
+            <int>7</int>
+          </Calificaciones>
+        </Alumno>
+        <Alumno>
+          <Nombre>Damian Díaz</Nombre>
+          <Edad>25</Edad>
+          <Fechaing>2016-01-01T00:00:00</Fechaing>
+          <Becado>0</Becado>
+          <Calificaciones>
+            <int>8</int>
+            <int>8</int>
+            <int>8</int>
+          </Calificaciones>
+        </Alumno>
+        <Alumno>
+          <Nombre>Fatima Soto</Nombre>
+          <Edad>23</Edad>
+          <Fechaing>2018-01-01T00:00:00</Fechaing>
+          <Becado>1</Becado>
+          <Calificaciones>
+            <int>6</int>
+            <int>6</int>
+            <int>6</int>
+          </Calificaciones>
+        </Alumno>
+      </Alumnos>
+    </Profesor>
+    <Profesor>
+      <Nombre>Maria Perez</Nombre>
+      <Fechaing>2016-02-10T00:00:00</Fechaing>
+      <Grupo>2A</Grupo>
+      <Materia>Algebra</Materia>
+      <Salario>3400</Salario>
+      <Alumnos>
+        <Alumno>
+          <Nombre>Maria Ochoa</Nombre>
+          <Edad>20</Edad>
+          <Fechaing>2018-10-01T00:00:00</Fechaing>
+          <Becado>1</Becado>
+          <Calificaciones>
+            <int>9</int>
+            <int>9</int>
+            <int>9</int>
+          </Calificaciones>
+        </Alumno>
+        <Alumno>
+          <Nombre>Carlos Díaz</Nombre>
+          <Edad>23</Edad>
+          <Fechaing>2018-10-01T00:00:00</Fechaing>
+          <Becado>0</Becado>
+          <Calificaciones>
+            <int>8</int>
+            <int>8</int>
+            <int>8</int>
+          </Calificaciones>
+        </Alumno>
+      </Alumnos>
+    </Profesor>
+    <Profesor>
+      <Nombre>Claudia Sid</Nombre>
+      <Fechaing>2019-04-01T00:00:00</Fechaing>
+      <Grupo>4B</Grupo>
+      <Materia>Calculo</Materia>
+      <Salario>3800</Salario>
+      <Alumnos />
+    </Profesor>
+    <Profesor>
+      <Nombre>Carlos Lopez</Nombre>
+      <Fechaing>2016-03-10T00:00:00</Fechaing>
+      <Grupo>8A</Grupo>
+      <Materia>Quimica</Materia>
+      <Salario>1000</Salario>
+      <Alumnos>
+        <Alumno>
+          <Nombre>Jose Ochoa</Nombre>
+          <Edad>19</Edad>
+          <Fechaing>2016-10-01T00:00:00</Fechaing>
+          <Becado>0</Becado>
+          <Calificaciones>
+            <int>6</int>
+            <int>6</int>
+            <int>6</int>
+          </Calificaciones>
+        </Alumno>
+      </Alumnos>
+    </Profesor>
+  </Profes>
+  <Alumnos />
+</Escuela>
