@@ -1,0 +1,16 @@
+C:\Sistemasinfo\Tarea 14\39.Threads4\bin\Debug\net5.0\39.Threads4.exe
+C:\Sistemasinfo\Tarea 14\39.Threads4\bin\Debug\net5.0\39.Threads4.deps.json
+C:\Sistemasinfo\Tarea 14\39.Threads4\bin\Debug\net5.0\39.Threads4.runtimeconfig.json
+C:\Sistemasinfo\Tarea 14\39.Threads4\bin\Debug\net5.0\39.Threads4.runtimeconfig.dev.json
+C:\Sistemasinfo\Tarea 14\39.Threads4\bin\Debug\net5.0\39.Threads4.dll
+C:\Sistemasinfo\Tarea 14\39.Threads4\bin\Debug\net5.0\ref\39.Threads4.dll
+C:\Sistemasinfo\Tarea 14\39.Threads4\bin\Debug\net5.0\39.Threads4.pdb
+C:\Sistemasinfo\Tarea 14\39.Threads4\obj\Debug\net5.0\39.Threads4.csprojAssemblyReference.cache
+C:\Sistemasinfo\Tarea 14\39.Threads4\obj\Debug\net5.0\39.Threads4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemasinfo\Tarea 14\39.Threads4\obj\Debug\net5.0\39.Threads4.AssemblyInfoInputs.cache
+C:\Sistemasinfo\Tarea 14\39.Threads4\obj\Debug\net5.0\39.Threads4.AssemblyInfo.cs
+C:\Sistemasinfo\Tarea 14\39.Threads4\obj\Debug\net5.0\39.Threads4.csproj.CoreCompileInputs.cache
+C:\Sistemasinfo\Tarea 14\39.Threads4\obj\Debug\net5.0\39.Threads4.dll
+C:\Sistemasinfo\Tarea 14\39.Threads4\obj\Debug\net5.0\ref\39.Threads4.dll
+C:\Sistemasinfo\Tarea 14\39.Threads4\obj\Debug\net5.0\39.Threads4.pdb
+C:\Sistemasinfo\Tarea 14\39.Threads4\obj\Debug\net5.0\39.Threads4.genruntimeconfig.cache
